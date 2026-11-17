@@ -1,0 +1,34 @@
+name: Daily viral news
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # every morning at 06:00 UTC (07:00 in Amsterdam in winter)
+  workflow_dispatch:      # adds a "Run workflow" button in the Actions tab
+  push:
+    branches: [main]      # also runs when you push your own changes
+
+permissions:
+  contents: write         # lets the workflow save the news back into the repo
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch today's viral news
+        run: python viral_news.py
+
+      - name: Save it to the repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news README.md
+          git commit -m "Viral news for $(date -u +%F) [skip ci]" || echo "Nothing new to save"
+          git push
