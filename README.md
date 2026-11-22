@@ -8,31 +8,31 @@ Every morning a GitHub Action collects the stories that are blowing up worldwide
 Each day gets its own file in the [`news/`](news) folder, and the latest list is shown below.
 
 <!-- NEWS:START -->
-## Viral news for 2026-11-21
+## Viral news for 2026-11-22
 
 ### Top headlines worldwide
-1. [How the White House lost faith in Sean Cairncross](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkhId2w1LTdpaEZOY0I5WXJ2U3JWNGJxRFI2V2F0cEV3bHpmQU9KMGtjVEJfbEJCdW9SeTZ2cGxPMGgwVC1MUk1lWXoyWHFJekJSd3k5Zm9jNTIydVlGS1JDbFppclY4VUtfYTI2Z09hZVljRUpkV3dKVlBuZFRaTEFJMkNjdnhiY0JCRlFCMHRieTBWalNCUHUzejNEeGYxUm1kUA?oc=5) (Politico)
-2. [Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZm4wWDR5Q2NNcmdUSjFSbGgtdWdBZ0JxODJsdU1LVDJFRWdrZ3dqOC1XVmJZRFdyTWNoOVI3TVpvWERxSldjTnNLcHJPeEduZnIxTEkydFU1Wml0NTE5TlhXQ2xEQ0tId1pvVnlMRnNNVkRxXzJnZVZPeUlSc3dWeDZPUmg5VGFzd285NVZ0RGx0aW5zbGJUREpPNTBLamdsOEZtVDRjaDRGUkhVRHl6U0VBRWMzYTVVWkdoYg?oc=5) (PBS)
-3. [Trump touts Asia deals and meeting with Xi and Putin at White House press conference](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5) (CBS News)
-4. [Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad](https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjBqVnVQelBOMS1QWFU4R0t4dEl2UFc0Q2lndlMybUhOcUlnaURLZnNlS2JPV18wckFEWXUtTjZkS1otMURicUFVd3RVX1dEZldsaVZZME1OTzFWTzBJZWtZTDhnNUgxRTJrUFR0Q1dDNXk3OS1pa3Q3Z3VOZnlfODRCTQ?oc=5) (The Guardian)
-5. [Palisades fire: Man guilty of starting one of California's deadliest blazes](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tZ3pYbkYxT1JZNVVQa3dOV3VZbTF0Nl9NaVJaTUJrY05RaFdIYmRpZ1pNMk5ZQTFuMU5wdEVSVTFzSS1qVHpSVmNfdmU2OHRCVjJCX0JYZ0dIODA?oc=5) (BBC)
-6. [Trump Administration Says Army Can Blow Up Lead-Laced Explosives](https://news.google.com/rss/articles/CBMijAFBVV95cUxOYk80VU91RmU1XzNYSzA5Z1VsaFMtaW1ISXN0dU9SLTZkUlVkTy1HWkE0TDh4eFlZeDVZNktmWlNjMTFsb1M1LUFfRWF3b0l4OG9raE9DUFZWT0UteE4tVGF2MlRPcGMxb0VXTERrYlNhRTNNcWk2dVpLcFJzaVVkNlVyZTREU0xqVUlIbQ?oc=5) (The New York Times)
-7. [Texas prisoner moans in pain for minutes during unusual lethal injection, witnesses say](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMjg2cDh2YzFnTXQ2eW5yMF9DUXl0bVJtZjFDVlJLV3NEVUZJMUdqTXpQWE5CQ1ctMS1ENG5XdHZlQWpoQ05rMVJ6a1F2dEVRQkROSDFuLUViWTlnSjlacWU2M0FQbVNBRHFWYXVjM1JvV1hpM1A1UnRlbVFZNWtLdmxTYVo3Q2dUc2hEeDlZVUpiX0dob21UMWcyYW1JRy1NUHpVSVE2YkVzdFNmSGgxTHR1UHNydWdmVTE4YlNyeUNWUQ?oc=5) (Reuters)
-8. [As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents](https://news.google.com/rss/articles/CBMif0FVX3lxTE5abUxUTmQ0V0xFQlV5M3NtUEVIaEcxRk9SSGszVEVMRG42MXNaSm45LXhKbmZsZzNUUXdjUTlVTjdGbWw1aUFqQ3NSQ1l3RkxrTjA5SUU3SG1HMVF2OFZOQ3p2eG9XVy1CRmtmQk5ucWw5S0J1SGcyek5ONTZmZjQ?oc=5) (The New York Times)
-9. [Mamdani’s vow to close Rikers Island jail rekindles hope and some skepticism](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjJKQ2RtbUdaYjB2eUtRYTA4SDJlRHdWaHBrWjhmTjVFTjBoQWs1NDM3MWNZV0hyOThyYVpPUW52NjhzbHJhcklkVGdWWnN6WmlEenJVUFRKM2V5SjlsZUtaa3B2WXd6bDFZYkpNN28xbEhOX0RBOWZYZGxjVVQyTkpVWEl2bC03QmdmWndJNXRoVmZMb1Vuay0wTXdYMF8yZG1SdmxVbVZ0S3VJbldiMg?oc=5) (NBC News)
-10. [Teen becomes viral cooking sensation after stepping up to feed his family amid mom's cancer battle](https://news.google.com/rss/articles/CBMidkFVX3lxTFBNRU9ndW9TOVhNbVdGUjhidmRqb3NCaWFtcVVhdDZIOG5iZFhMUG5DZWlzcjZWcGZHd2tucFVmQm9ZT2pqRHV2bHZSRkpEbFVzaWh4RUp4RzZ1Q3piYkZMcVhSR1dZWUJzWW5iQkZJUXJISTNpeXc?oc=5) (CBS News)
+1. ['El Chapo Isidro': Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out](https://news.google.com/rss/articles/CBMiW0FVX3lxTE80NHFlYW1fRG1Yd0hrOWJ6bFFyQ1pHOFJCYnQ2LXpuM0pnN2VYRFNrM1JXdzBUZmI3M1NkaHBOVFdpWG1sOTROZ3RsOFc0Vlp4TU93aEdMTURFNnM?oc=5) (BBC)
+2. [Crew evacuated amid battle to put out fire on Russian ship hit by drones](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5) (Al Jazeera)
+3. [Trump orders federal contractors to check with White House before responding to Congress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5iVVMyejhOQXItTVVVdmVsQTR1SFBGeGVMWUI4enZsYkU1SW9DQ1hSbW1hNmo3SlFkdDBJSl82WEgxVlVGMGx0cUdETWJrcEJWamdUa3ZlbVZsWTUxUmN4REdKOHZrV3NfcmZMaFJneDJXdFFQOUNyYw?oc=5) (NPR)
+4. [Trump says Cornyn blocked judicial pick because his ‘feelings were hurt’](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFhSR29UOE9YYlhmdlNIaXVaaHcxR0V0LUJYUTJ2eWxZYm02NV9ISWx5VjFua3BpVi02WEpVX3JIX29XLTdZaDYyWWpmbWU2U2JDaTE0R0NnRUViRVBGa3Z6Qno4VFRtb1Jnc2dsSVBJazhDc1JnNWdZcmx4U0VxVnFFVzFRemRfcnRXNlZyZ3pUdlNaRDFuZW1yVHBEMzlkQVk4SDZKTUYyZGtTVkJiX3dWRlp0dGRmNGxLUi1xZw?oc=5) (The Washington Post)
+5. [Washington governor decries ‘out-of-control’ ICE at Seattle airport](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnROWXJkWjVkenhaU1owSXBVWlRlZGt4eFJtWDdLUjZlNkVFZHRIRVcwenh5TGFIRm9YNGVHT3M0cjZ1RHZsM2lVQkMxOGpDaE5jYzZ4bzk4SlI0SWVGdnBpS2djano3ZFMxWk5WNWpzWFlDNmpsNTFReXBpUjJIT1MtQzFYRVN5RDBMX0p4d0R0OUHSAZgBQVVfeXFMUFJGMFNsWjh3aFYtMkMxOWhfUnpUUnY2V05Ka1o0SmRlVEJPa05oNEp6MVo5RmhvV2UySjV4VGxWR2lkczZJWWttYlJ4MktxR1dmZlRoSlJCdGMxWnhuX0c5dmVMeElOczFHRjdlcWNzeDRlbXlObDFDaXVqX2pjamU2TnVDd2ptWU00M3l4eGxadWQ0cXMwN1o?oc=5) (The Hill)
+6. [Trump says latest FBI hack could have ‘positive’ impacts](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5) (Politico)
+7. [Princeton University student detained by ICE at Reagan Airport after conference](https://news.google.com/rss/articles/CBMickFVX3lxTE1HUVBBVWJjMmtDMW8tMlotRFplSVpFMWFpSHo2Yl8yb2lZLVZONDVSM3U4S0xYTTBfT205bTBGYzZMbk4yRUIyR2ZyYU01VEdHUGdwakxPdzZsMGpSbnRXb0xXOVdGZ3FPbUwyV0RnenplUQ?oc=5) (CBS News)
+8. [SFO will flood next week from huge tides, federal expert says](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWNmTDdHMUF2Q2ZseHZkdVh1amw5akh4dDZRRHpSVXNmUmROTUZkMngxaGZfcndDZU1BUXJnbEJxU2ZadkVRUjlnQ1FrZ21GX3FBNUJyS3dDYWw2dW1CRktQSXBOUkI5UWExbktVODc1cjNVSWlIOTQ0RlFNTmd4Z2xYdUExWmxV?oc=5) (San Francisco Chronicle)
+9. [Levels, timing: St. Johns River to reach record or major crest from Cocoa to Astor in coming days](https://news.google.com/rss/articles/CBMifkFVX3lxTE1SYloxVmFJaFU4UW1Cdkt2MUFzNElWdk5OSFVDYV96ZmVvX2M5NktnMXlwVmdyS3hJcFpCbEduUVEtVDlweGh0b3ltRlZZOE9fcXI5aFE3UWNSRTZpWVh2X2RUdC1NZzhzSVFYd0VIdjk3VXNpY093cW0taTdRQQ?oc=5) (WESH)
+10. [Why surgery wasn’t an option to save Fiona the hippo](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcTVxZktUYjBJY1hsRnNMd0VzcHN0NHNWVHdmTVNsSHI4a0VsRW56REs4MjlyeWhLMEYzb1JZbzFKNFZ3U19YZEsyNWN1SzlGOW54dExXaXJOdTAwV2ItbU83N003dGFqWU54ek9KX1JLOVBYbUR1bDFoZ3NPZHlsclNsTjZiY2NZS015Z0hoT29NdUtaeUhqaVozSQ?oc=5) (WRAL)
 
 ### What the world was reading on Wikipedia yesterday
-1. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (540,793 views)
-2. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (329,248 views)
-3. [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) (295,157 views)
-4. [The Hunger Games: Sunrise on the Reaping](https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping) (174,063 views)
-5. [Ken McElroy](https://en.wikipedia.org/wiki/Ken_McElroy) (158,096 views)
-6. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (132,581 views)
-7. [Grand Theft Auto](https://en.wikipedia.org/wiki/Grand_Theft_Auto) (129,311 views)
-8. [Levent Alpöge](https://en.wikipedia.org/wiki/Levent_Alpöge) (124,632 views)
-9. [Fiona (hippopotamus)](https://en.wikipedia.org/wiki/Fiona_(hippopotamus)) (124,449 views)
-10. [Robert Pattinson](https://en.wikipedia.org/wiki/Robert_Pattinson) (124,262 views)
+1. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (393,338 views)
+2. [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) (388,288 views)
+3. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (357,351 views)
+4. [The Hunger Games: Sunrise on the Reaping](https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping) (204,097 views)
+5. [.xxx](https://en.wikipedia.org/wiki/.xxx) (148,049 views)
+6. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (124,212 views)
+7. [O.M: Operation Mole](https://en.wikipedia.org/wiki/O.M:_Operation_Mole) (123,978 views)
+8. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (122,695 views)
+9. [Ansel Adams](https://en.wikipedia.org/wiki/Ansel_Adams) (121,328 views)
+10. [Robert Pattinson](https://en.wikipedia.org/wiki/Robert_Pattinson) (119,357 views)
 
 <!-- NEWS:END -->
 
