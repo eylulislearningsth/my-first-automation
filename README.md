@@ -8,31 +8,31 @@ Every morning a GitHub Action collects the stories that are blowing up worldwide
 Each day gets its own file in the [`news/`](news) folder, and the latest list is shown below.
 
 <!-- NEWS:START -->
-## Viral news for 2026-11-22
+## Viral news for 2026-11-23
 
 ### Top headlines worldwide
-1. ['El Chapo Isidro': Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out](https://news.google.com/rss/articles/CBMiW0FVX3lxTE80NHFlYW1fRG1Yd0hrOWJ6bFFyQ1pHOFJCYnQ2LXpuM0pnN2VYRFNrM1JXdzBUZmI3M1NkaHBOVFdpWG1sOTROZ3RsOFc0Vlp4TU93aEdMTURFNnM?oc=5) (BBC)
-2. [Crew evacuated amid battle to put out fire on Russian ship hit by drones](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5) (Al Jazeera)
-3. [Trump orders federal contractors to check with White House before responding to Congress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5iVVMyejhOQXItTVVVdmVsQTR1SFBGeGVMWUI4enZsYkU1SW9DQ1hSbW1hNmo3SlFkdDBJSl82WEgxVlVGMGx0cUdETWJrcEJWamdUa3ZlbVZsWTUxUmN4REdKOHZrV3NfcmZMaFJneDJXdFFQOUNyYw?oc=5) (NPR)
-4. [Trump says Cornyn blocked judicial pick because his ‘feelings were hurt’](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFhSR29UOE9YYlhmdlNIaXVaaHcxR0V0LUJYUTJ2eWxZYm02NV9ISWx5VjFua3BpVi02WEpVX3JIX29XLTdZaDYyWWpmbWU2U2JDaTE0R0NnRUViRVBGa3Z6Qno4VFRtb1Jnc2dsSVBJazhDc1JnNWdZcmx4U0VxVnFFVzFRemRfcnRXNlZyZ3pUdlNaRDFuZW1yVHBEMzlkQVk4SDZKTUYyZGtTVkJiX3dWRlp0dGRmNGxLUi1xZw?oc=5) (The Washington Post)
-5. [Washington governor decries ‘out-of-control’ ICE at Seattle airport](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnROWXJkWjVkenhaU1owSXBVWlRlZGt4eFJtWDdLUjZlNkVFZHRIRVcwenh5TGFIRm9YNGVHT3M0cjZ1RHZsM2lVQkMxOGpDaE5jYzZ4bzk4SlI0SWVGdnBpS2djano3ZFMxWk5WNWpzWFlDNmpsNTFReXBpUjJIT1MtQzFYRVN5RDBMX0p4d0R0OUHSAZgBQVVfeXFMUFJGMFNsWjh3aFYtMkMxOWhfUnpUUnY2V05Ka1o0SmRlVEJPa05oNEp6MVo5RmhvV2UySjV4VGxWR2lkczZJWWttYlJ4MktxR1dmZlRoSlJCdGMxWnhuX0c5dmVMeElOczFHRjdlcWNzeDRlbXlObDFDaXVqX2pjamU2TnVDd2ptWU00M3l4eGxadWQ0cXMwN1o?oc=5) (The Hill)
-6. [Trump says latest FBI hack could have ‘positive’ impacts](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5) (Politico)
-7. [Princeton University student detained by ICE at Reagan Airport after conference](https://news.google.com/rss/articles/CBMickFVX3lxTE1HUVBBVWJjMmtDMW8tMlotRFplSVpFMWFpSHo2Yl8yb2lZLVZONDVSM3U4S0xYTTBfT205bTBGYzZMbk4yRUIyR2ZyYU01VEdHUGdwakxPdzZsMGpSbnRXb0xXOVdGZ3FPbUwyV0RnenplUQ?oc=5) (CBS News)
-8. [SFO will flood next week from huge tides, federal expert says](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWNmTDdHMUF2Q2ZseHZkdVh1amw5akh4dDZRRHpSVXNmUmROTUZkMngxaGZfcndDZU1BUXJnbEJxU2ZadkVRUjlnQ1FrZ21GX3FBNUJyS3dDYWw2dW1CRktQSXBOUkI5UWExbktVODc1cjNVSWlIOTQ0RlFNTmd4Z2xYdUExWmxV?oc=5) (San Francisco Chronicle)
-9. [Levels, timing: St. Johns River to reach record or major crest from Cocoa to Astor in coming days](https://news.google.com/rss/articles/CBMifkFVX3lxTE1SYloxVmFJaFU4UW1Cdkt2MUFzNElWdk5OSFVDYV96ZmVvX2M5NktnMXlwVmdyS3hJcFpCbEduUVEtVDlweGh0b3ltRlZZOE9fcXI5aFE3UWNSRTZpWVh2X2RUdC1NZzhzSVFYd0VIdjk3VXNpY093cW0taTdRQQ?oc=5) (WESH)
-10. [Why surgery wasn’t an option to save Fiona the hippo](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcTVxZktUYjBJY1hsRnNMd0VzcHN0NHNWVHdmTVNsSHI4a0VsRW56REs4MjlyeWhLMEYzb1JZbzFKNFZ3U19YZEsyNWN1SzlGOW54dExXaXJOdTAwV2ItbU83N003dGFqWU54ek9KX1JLOVBYbUR1bDFoZ3NPZHlsclNsTjZiY2NZS015Z0hoT29NdUtaeUhqaVozSQ?oc=5) (WRAL)
+1. [COP31 climate talks fail to reach deal amid fossil fuel and money rows](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zazlrTTNEV2tGd0RQYWNBcEdIendZVHNySG96NDVwUXA5aWQwLWw2NlFsN3RPUjhfRDQ4ZDNsQ1hjR0lvZ2V2ZENMSlIxbXdocWxKam9fTkNpak0?oc=5) (BBC)
+2. [Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race](https://news.google.com/rss/articles/CBMingFBVV95cUxNZTVLVGtJMVRtaklNSHA5bVI5eW5jUkFTRUJhTXkwQ2xDTWdyVkNRR0p2c3VJdnRXSkRxaVRCSTVGMDZWeVI0cVJfR2NqbTBzcmNTckp4d0ptNndyYTd6ZlJWTzBqYzFjX1NpemtjdXBMeWRwZmo4WkJaX2N5S0QyMmVweWdyTnFVejdNcXdaSmNJVy1sTDd3d0k5UkJuUQ?oc=5) (CBS News)
+3. [U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcE04UmszekRHMXFQUW1pVVNwRjVMeDJIa216NGlNdGpMUGVaak1xRUhmS1FrQ2hOQkw0VkgzX2NSRVNTWXF5MmxjMlhpRmwtZS1lY0hIQ3BXRmhBRk1YbnNBY3ROZnRJLUVtMDNTd1VxaWhmMjRlNkZubElBbkZHMUdKUmxaYkk5bUtVUGdRcFNhU1hBY3dMRDFFVTlUMFJ3UF9CZUVWb3lsNFg4N3pCZU1MZnp4bjNLUGVKNGpkVXk?oc=5) (PBS)
+4. [Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle](https://news.google.com/rss/articles/CBMiswFBVV95cUxQalNpZG5KQVNvYTRDWm45eWpQZGJnQU9GdWZZOTQxajBtSXpId3FuY2RHbU0xMFhTN0VpUFZHdGY1TDEwajlJa3RYTUxpQm82SXJIN2RIMDhsY2lxd1BORlFtV0lBRHpnN3FaZzUwZ0JaOHpQeDE5YzU3d1gtYVNMWGpaRU1acFpQYWJqTEdjbk5WcGZOVURlVE15bC1VYkhEUTFwMUhVRWZleWRsZXFocGR2UQ?oc=5) (The Guardian)
+5. [West Coast bracing for more coastal flooding as Thanksgiving travel week begins](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTN5SDFFYmdfeHRkclBXRE5VWUM1TUdDQ2dUbXliQkxlMHJieEhlMGZQaHZIbWFVMW5PYUc5b2NOWGFRZVE3QzFDTUVtV1ozMnZycnBjLXA5b01DNUp0LXBLZkd4NVlaRFlVV2NtOENLb25OODBybGoxZUZIOS1ITnhnaU1XbzEtbGRPMnJNOTRNM2pxeE05a21pSnhIU21sY3NXMdIBqgFBVV95cUxQaktNalpqQ2xmYkJYZEl4a205NTRING51eHpsQ0J5ZGsxamZSTGJkVk8wb1c2TGltSUZTbVctenEwLXlpeXJTNmNWWklqa25DTzQ3SzBTY2ZjTHgxVmZRMnZrOWhQNXkxMll5UnZhYVc0Qkx2TnpybDFlblptMlhHNFBjM0dhVXpiOE5TUWtvdXBRdTU0NzNHSzk5emZTeERvNUszd3QxMmlhdw?oc=5) (ABC News - Breaking News, Latest News and Videos)
+6. [Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port | Russia-Ukraine war News](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaA?oc=5) (Al Jazeera)
+7. [A Chicago park is infested with rats. Is a wealthy couple to blame?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHhVeFc2cFZHcU1CZEFCYnllTUpfTjVJOXllQzZ3M2N2QmE3ZnAwMjJpaFctejB4YUJwT2dYTHQ2MlFUOWp1Q0N2S2l6X2lhRGNBZUJKR0s1b2gyZVY1dW4zX3VvaEVTU2k2blpBSmNpOVFRYmZGX3VXTzlOSmRDX0IwZGU4UjVsSjRETGVDOEdpVk1YR1JfcFZoNW5NdXowcF9QTTlrcnQxS2kz?oc=5) (The Seattle Times)
+8. [Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care](https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXQ2N0kxSWllQ1FHMUl3Sl9kS0hjRnN0cVk5aTVSRTZfWG83MFhyMUJHLTZ6YTNIVGVpWjREVGhMSW5mWVVRMjJsR0djRWZTUXMxbXRJNXUwVGJyTlZRVGZkUU9HV0ppWDhDQXBWZl9yRDJLSTNvQ1h4TGRPbTRhcGRYWlZsaVRMQ19feFprSGprdmZrZm1UdlJB?oc=5) (The Washington Post)
+9. [Thanksgiving travel forecast 2026: storms on both coasts](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVZHV1ltWXRUMFBvVGo0bF9YWWZhSWJFQzNQYTFDRzl5Z1ltZmg2elhPVUZPdjVTUFZyTEY5cHFMcmlTa3pEZDBRblZYNjJFbU9zb2NWc01qb0ZPVkRSdWNXT01jUzZYdUhxQkRodDZxeGlwY0cyclpiZkxsWE1senpuUEZORXFBZ0RQSlVEcmZUcVpwR040SF9zMHB2YjA?oc=5) (The Weather Channel)
+10. [More rain Saturday after days of flooding along Central Florida coast](https://news.google.com/rss/articles/CBMiggFBVV95cUxPME5mNHhCdVltWWxQQWxtU3BISnVoVmRIT0wxZm5Ed1lyenpQd1RZMkZiQl92TXMtNV9sZ3Z0b2VKLWVDMzJXVE5QVHE5cFNCMmR2ODg2MTJPUlhPXzhQSWVudXhXRG5CR1NXOHl0RF9iRUdsZmFROWR0QkNlZzc0MFB3?oc=5) (WESH)
 
 ### What the world was reading on Wikipedia yesterday
-1. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (393,338 views)
-2. [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) (388,288 views)
-3. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (357,351 views)
-4. [The Hunger Games: Sunrise on the Reaping](https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping) (204,097 views)
-5. [.xxx](https://en.wikipedia.org/wiki/.xxx) (148,049 views)
-6. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (124,212 views)
-7. [O.M: Operation Mole](https://en.wikipedia.org/wiki/O.M:_Operation_Mole) (123,978 views)
-8. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (122,695 views)
-9. [Ansel Adams](https://en.wikipedia.org/wiki/Ansel_Adams) (121,328 views)
-10. [Robert Pattinson](https://en.wikipedia.org/wiki/Robert_Pattinson) (119,357 views)
+1. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (384,249 views)
+2. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (308,867 views)
+3. [Tom Jackson (American football, born 1951)](https://en.wikipedia.org/wiki/Tom_Jackson_(American_football,_born_1951)) (263,973 views)
+4. [The Hunger Games: Sunrise on the Reaping](https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping) (222,399 views)
+5. [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) (205,793 views)
+6. [Miley Cyrus](https://en.wikipedia.org/wiki/Miley_Cyrus) (170,642 views)
+7. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (137,636 views)
+8. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (131,500 views)
+9. [.xxx](https://en.wikipedia.org/wiki/.xxx) (113,918 views)
+10. [The Body (TV series)](https://en.wikipedia.org/wiki/The_Body_(TV_series)) (112,346 views)
 
 <!-- NEWS:END -->
 
