@@ -8,31 +8,31 @@ Every morning a GitHub Action collects the stories that are blowing up worldwide
 Each day gets its own file in the [`news/`](news) folder, and the latest list is shown below.
 
 <!-- NEWS:START -->
-## Viral news for 2026-11-23
+## Viral news for 2026-11-24
 
 ### Top headlines worldwide
-1. [COP31 climate talks fail to reach deal amid fossil fuel and money rows](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zazlrTTNEV2tGd0RQYWNBcEdIendZVHNySG96NDVwUXA5aWQwLWw2NlFsN3RPUjhfRDQ4ZDNsQ1hjR0lvZ2V2ZENMSlIxbXdocWxKam9fTkNpak0?oc=5) (BBC)
-2. [Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race](https://news.google.com/rss/articles/CBMingFBVV95cUxNZTVLVGtJMVRtaklNSHA5bVI5eW5jUkFTRUJhTXkwQ2xDTWdyVkNRR0p2c3VJdnRXSkRxaVRCSTVGMDZWeVI0cVJfR2NqbTBzcmNTckp4d0ptNndyYTd6ZlJWTzBqYzFjX1NpemtjdXBMeWRwZmo4WkJaX2N5S0QyMmVweWdyTnFVejdNcXdaSmNJVy1sTDd3d0k5UkJuUQ?oc=5) (CBS News)
-3. [U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcE04UmszekRHMXFQUW1pVVNwRjVMeDJIa216NGlNdGpMUGVaak1xRUhmS1FrQ2hOQkw0VkgzX2NSRVNTWXF5MmxjMlhpRmwtZS1lY0hIQ3BXRmhBRk1YbnNBY3ROZnRJLUVtMDNTd1VxaWhmMjRlNkZubElBbkZHMUdKUmxaYkk5bUtVUGdRcFNhU1hBY3dMRDFFVTlUMFJ3UF9CZUVWb3lsNFg4N3pCZU1MZnp4bjNLUGVKNGpkVXk?oc=5) (PBS)
-4. [Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle](https://news.google.com/rss/articles/CBMiswFBVV95cUxQalNpZG5KQVNvYTRDWm45eWpQZGJnQU9GdWZZOTQxajBtSXpId3FuY2RHbU0xMFhTN0VpUFZHdGY1TDEwajlJa3RYTUxpQm82SXJIN2RIMDhsY2lxd1BORlFtV0lBRHpnN3FaZzUwZ0JaOHpQeDE5YzU3d1gtYVNMWGpaRU1acFpQYWJqTEdjbk5WcGZOVURlVE15bC1VYkhEUTFwMUhVRWZleWRsZXFocGR2UQ?oc=5) (The Guardian)
-5. [West Coast bracing for more coastal flooding as Thanksgiving travel week begins](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTN5SDFFYmdfeHRkclBXRE5VWUM1TUdDQ2dUbXliQkxlMHJieEhlMGZQaHZIbWFVMW5PYUc5b2NOWGFRZVE3QzFDTUVtV1ozMnZycnBjLXA5b01DNUp0LXBLZkd4NVlaRFlVV2NtOENLb25OODBybGoxZUZIOS1ITnhnaU1XbzEtbGRPMnJNOTRNM2pxeE05a21pSnhIU21sY3NXMdIBqgFBVV95cUxQaktNalpqQ2xmYkJYZEl4a205NTRING51eHpsQ0J5ZGsxamZSTGJkVk8wb1c2TGltSUZTbVctenEwLXlpeXJTNmNWWklqa25DTzQ3SzBTY2ZjTHgxVmZRMnZrOWhQNXkxMll5UnZhYVc0Qkx2TnpybDFlblptMlhHNFBjM0dhVXpiOE5TUWtvdXBRdTU0NzNHSzk5emZTeERvNUszd3QxMmlhdw?oc=5) (ABC News - Breaking News, Latest News and Videos)
-6. [Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port | Russia-Ukraine war News](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaA?oc=5) (Al Jazeera)
-7. [A Chicago park is infested with rats. Is a wealthy couple to blame?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHhVeFc2cFZHcU1CZEFCYnllTUpfTjVJOXllQzZ3M2N2QmE3ZnAwMjJpaFctejB4YUJwT2dYTHQ2MlFUOWp1Q0N2S2l6X2lhRGNBZUJKR0s1b2gyZVY1dW4zX3VvaEVTU2k2blpBSmNpOVFRYmZGX3VXTzlOSmRDX0IwZGU4UjVsSjRETGVDOEdpVk1YR1JfcFZoNW5NdXowcF9QTTlrcnQxS2kz?oc=5) (The Seattle Times)
-8. [Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care](https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXQ2N0kxSWllQ1FHMUl3Sl9kS0hjRnN0cVk5aTVSRTZfWG83MFhyMUJHLTZ6YTNIVGVpWjREVGhMSW5mWVVRMjJsR0djRWZTUXMxbXRJNXUwVGJyTlZRVGZkUU9HV0ppWDhDQXBWZl9yRDJLSTNvQ1h4TGRPbTRhcGRYWlZsaVRMQ19feFprSGprdmZrZm1UdlJB?oc=5) (The Washington Post)
-9. [Thanksgiving travel forecast 2026: storms on both coasts](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVZHV1ltWXRUMFBvVGo0bF9YWWZhSWJFQzNQYTFDRzl5Z1ltZmg2elhPVUZPdjVTUFZyTEY5cHFMcmlTa3pEZDBRblZYNjJFbU9zb2NWc01qb0ZPVkRSdWNXT01jUzZYdUhxQkRodDZxeGlwY0cyclpiZkxsWE1senpuUEZORXFBZ0RQSlVEcmZUcVpwR040SF9zMHB2YjA?oc=5) (The Weather Channel)
-10. [More rain Saturday after days of flooding along Central Florida coast](https://news.google.com/rss/articles/CBMiggFBVV95cUxPME5mNHhCdVltWWxQQWxtU3BISnVoVmRIT0wxZm5Ed1lyenpQd1RZMkZiQl92TXMtNV9sZ3Z0b2VKLWVDMzJXVE5QVHE5cFNCMmR2ODg2MTJPUlhPXzhQSWVudXhXRG5CR1NXOHl0RF9iRUdsZmFROWR0QkNlZzc0MFB3?oc=5) (WESH)
+1. [Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5) (PBS)
+2. [DOJ says House’s top lawyer ‘refused to be involved’ ahead of Omar search](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XN3BZam9YLWs0MXNNeEI0WWZORWRHWndMN0loUFlEZ3VEd2hIVkVMRllPLTktUnhaaVgtckpjN0NvOS1BOHdYRldPVjRMdVo0X3cxYzhKZ3BZdk1JNTVXazBlSDZLelpwVTZydmxhSDlXUm5ZRmc0bEUwUlFoYjA?oc=5) (Politico)
+3. [California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNREQ2YXBZV2tPZVd6VWFGeXpqZnZITnRxRkVZVEZWNFlTUUhiZDNqZ2x0RUVkUlNrempYRU4zTENrSENCTk9wckM5ejNoNW9qRTc0MVNab28tRjRVdXpHX29XMllMOHVmUjhVX3RacmNLZFI1aHJfLXNOZFFnZHdhNnlTc0lTUXhpWmhocWhmMWl1THR3UmMtbkJMR18zTzNGamsyMEtndWx3MWhiamVueXpzUzlaYzB6Nmpubmk3WFUzNUFGOWZQZlhtUlpuSHdZeDJR?oc=5) (NPR)
+4. [Nato chief vows defence against space threat after Russian nuclear satellite reports](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xampkdUlKOThsOWVKdzRnQWVORURqT1VYb2ZkMlBkUkFBNldUWGNWcXd0bU1rZE82MktIMUhITWVCcU9kakplb2NQcUlDaEg0X0pTQ054a0JkeGc?oc=5) (BBC)
+5. [Trump urges justice department to speed up federal executions in dig at Gavin Newsom](https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0lwQU5oWVdPN04wdU0tdzhxdGs1dVF0VGQ0T2Q5WEJRcXBjLVlsTFJWQUhCdTJPc0g2YkVLb3JsbV9ZZUFCTDJFRkhkOFhITDNDVnJfdGc0TkxuZUdvVnQ4U0E1cG5kOTdhamlfdk1lMDFubVRqZXJDV3NzMEo5OWI0NEM3cTVoVmtIU1FPZkFhQjVZWHl5OF91QTI4UUpSVTRCc0p4QQ?oc=5) (The Guardian)
+6. [As Tides Near Record Levels in California, a Storm Threatens to Make Things Worse](https://news.google.com/rss/articles/CBMigAFBVV95cUxOeGVxQjBhSFZySWJLdFVPQVpiNmx1UDZwempXRWVPVlhoQnJLXzNOSWlhaDhtWjRFY3MzbmQyYWNfUGhqcWpja0FoTzl5cEFZNGpsdUZoblFfenVGNmpLZVBkOUVKM0Q1clkycjVuWjItbHlBLVZNbzJ2S0NBaFdjTg?oc=5) (The New York Times)
+7. [Husband of woman detained in viral ICE arrest at Seattle airport calls episode "unjust"](https://news.google.com/rss/articles/CBMickFVX3lxTE94VFB2QTlTX0NENXBHTjZrZk1BaGJCT01tVndHaFhkV1I5NG5RRlRnS1hxVzNXX2FZSXlZeWItQlA3UzJ4MC14cUxvekswdEcxYTl5WmhjZ19ublN5RXhZQmJjN0hrdUNPUXlKZjd1a0pkQQ?oc=5) (CBS News)
+8. [Bomb cyclone? Storm to wallop East Coast](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdU5YVU5aQmwydFp6TDJpZ0JWMVpWNDVQQVVuOFBWT2tYcTBDLXIxVVg4clpzT2wtSVVZalJkYWk3d0xVd2Y2T252YnY2OUdQWVJISHFoSGIxbVZWYWhobjNEZTl2Um9USUNCa2hwOTVueDB1RDgtalRLVHRxTE80bWdrUWJNZllMMk1KdkdjOFE0WmxfQXBMSVJ0eVlNVnpQMGxIX3R2OW41Y0tNM0xZalo3dEFRT25V?oc=5) (USA Today)
+9. [Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWlXTkpVVnhUbjdFY1E0bmZXaGxuNmlLaGVwYnBxSTRkakZhS0djMTEza1VFbGhkTWpra1hKOW13bDVjQ0RnYWhTOG1PenVWSEd6UGVPTzhIT0sxUmk0dkFqaHFXQkFrMnFQdG9SaFdmZDVZblNjLW1WWWxuN2NLcnVfLVktY3VmSkE?oc=5) (The New York Times)
+10. [Federal appeals court gives President Donald Trump a path to erasing hush money conviction](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVdZZl9tRjc0WjhZbUY0NVZvdTRDQ01ZOTl4RmZUQndRR0ZHRmpkRVJ6ZjFCQzJYVml0cnoycjNWaW1rWWVENmJHbS1xaHZLc1U5azdFRmU4UmdDa0thQmlkeW9GZlhmeElDTS1NWXFHUmJPOFFBZU1rbml2dWxQQnRMVTMwSmxDTDFPQU92WTJBaUNEclZB?oc=5) (AP News)
 
 ### What the world was reading on Wikipedia yesterday
-1. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (384,249 views)
-2. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (308,867 views)
-3. [Tom Jackson (American football, born 1951)](https://en.wikipedia.org/wiki/Tom_Jackson_(American_football,_born_1951)) (263,973 views)
-4. [The Hunger Games: Sunrise on the Reaping](https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping) (222,399 views)
-5. [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) (205,793 views)
-6. [Miley Cyrus](https://en.wikipedia.org/wiki/Miley_Cyrus) (170,642 views)
-7. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (137,636 views)
-8. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (131,500 views)
-9. [.xxx](https://en.wikipedia.org/wiki/.xxx) (113,918 views)
-10. [The Body (TV series)](https://en.wikipedia.org/wiki/The_Body_(TV_series)) (112,346 views)
+1. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (365,685 views)
+2. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (266,240 views)
+3. [Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) (234,343 views)
+4. [Moon](https://en.wikipedia.org/wiki/Moon) (180,275 views)
+5. [The Hunger Games: Sunrise on the Reaping](https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping) (180,185 views)
+6. [Linux](https://en.wikipedia.org/wiki/Linux) (177,023 views)
+7. [Blood](https://en.wikipedia.org/wiki/Blood) (174,912 views)
+8. [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) (157,845 views)
+9. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (136,937 views)
+10. [Experience machine](https://en.wikipedia.org/wiki/Experience_machine) (135,474 views)
 
 <!-- NEWS:END -->
 
