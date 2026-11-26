@@ -8,31 +8,31 @@ Every morning a GitHub Action collects the stories that are blowing up worldwide
 Each day gets its own file in the [`news/`](news) folder, and the latest list is shown below.
 
 <!-- NEWS:START -->
-## Viral news for 2026-11-25
+## Viral news for 2026-11-26
 
 ### Top headlines worldwide
-1. [Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5) (The Washington Post)
-2. [US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business](https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5) (CNN)
-3. [Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01b3N1Y0lrUUVHN1JORkdTU0RnUW95dDZzaDFfNnhSVzFFLVBnY3Y3N2tsYzNkcU1RcFdYV2U0LTdfS19ydDQzbVA3UWJGZDhOUS1FemRjQXYzbG8?oc=5) (BBC)
-4. [US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5) (Reuters)
-5. [Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5) (BBC)
-6. [Trump prepares a new round of targeted tariffs](https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5) (Axios)
-7. [4 adults and 2 kids are missing after plane crashes off Mississippi coast](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1pMNDBQT2hmMklqSk1NS1dWUjNrU21HV0FsTC1LWF9kRkVaN1Q3V0lMX3lQVVJTckd2dTRMLXJud21XdkpSMXlqbW1UQ29GWE1PdVVPdmM3aXVaZUZIUkF5aXhrazhnUEFCWTRkMHg0U2lZWGhxSHZhS2M4RmtWLWNUaV9LTzFCMldHeDhuSjRfREtrWVF2VS1JeTJQQ1VvVjRyaUIxZ3ZRdnM?oc=5) (NBC News)
-8. [Fort Hood shooter Nidal Hasan will petition to delay his execution, court documents show](https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWENhWVRxcFNVSWY3UzI1bFl1a1ZDM241N2x1SEVma0NyMlpBaXowWmh4Sy10cnV0SEUwOUUxSVpqQjR1S3NObVItTVYyWjNxM2NrSkxQYW1YbzhzLXJoaTVMOUJ4dmV6MHlyQlBsbXp2Smdq?oc=5) (CBS News)
-9. [Live storm updates: Record king tides leave Bay Area roads flooded](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5) (ABC7 Bay Area)
-10. [One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony](https://news.google.com/rss/articles/CBMif0FVX3lxTE9uaXJVWGJGNXl1SXVndE1iZ04wODF1U0REbUl3bkRoWWVHR3FRZ3RrX0pEZGxOU0dqSlFQSDU2a3dpcEtNODA4T2FCQ0lCOHJRRmFFdl9Qd3c4R0VxMDQ1ZE9rc0o4MXJibHpsb05HWDNPcC05OWRkamoxNXVHRkE?oc=5) (The Guardian)
+1. [Macy's postpones Thanksgiving parade due to severe weather](https://news.google.com/rss/articles/CBMiW0FVX3lxTE50QUNpS0xGNXpWaUlldGtRQzl6cHdwZFFtSlRKTFR0XzUtU1JEd2c1REhZa1U5YW9ZeVFYSk9EQXFaWHZ6NUJIVmtlRmVGUGNoWUlwZVpKMW9jcTg?oc=5) (BBC)
+2. [Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTl6NlBKb3JYSFJlRnNLeFEyX3ZqNnNERWJrUGpNaWhyLUZ5cTBfU182VFBLM3d5R0g1dDMyVkR2UUtOOTlmdEhJUkRaU0ZFY1dQRU1MTUVVaFFCeml0c244bEFNY0ZDdXlVQy1FUXVMWW5TS1RycEcxMjgxcjhEMl9uTE4xSGdlbENvWVRtN0MxVkFUX0RLTDFnRG4wcW9lQzVCeFpFSGdRX3RmaDM4?oc=5) (FOX Weather)
+3. [Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTVg5UHpONGNFdFNFMDVfQlFwT1p3dDItcHg2TWRmdDFkT1hCMTlXSGoxM2JLTXViNG1pbUwtZXY2WnB2U050QkViTVJQQkJsSnozaE1ISDMyRGJtSUJuTGNtdjhNWVNoVHVsV1ExYUhyWVM4QVdzNXlmbUg2LWE4b1hraGFCYXdkNEEzYW9LTExIZExfalhEOUtfTUh4MFFlU2dvT0hWUDRXLW1aUDZzNDJlWTNELVRSc09TVFA3SGpRR2FwcF82bXVHUnk0dHQ2TkhIbFJuUFNtNTJjelpfWURfMEFPakhHX2c?oc=5) (Yahoo Finance)
+4. [Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVFQ3dllVOHBrWnZnenhkWWQ1M3QySmUwRDVCOXBwZjQzQ2dKTGdYQXlLYXBLUFF0MmtndFl4QmxvdzlQZ2Z5cWtDZEFZUjhYRW1McjZmOEh6cWNGdmdDb2tHOGdsN01OM3hBTXdBVjQwajRYRklDQmNhRUZNbTZ0V3E0bE9HTmxoMUVyMTdlS1dSUQ?oc=5) (CBS News)
+5. [Bay Area weather recap: Flood cleanup underway after waves slam Pacifica](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVA4MkUxTmlMa3ZhR19JWkVoTWNyVGg1dFItbEpxUjczN09BZXN1ZlhZaVRvY0dMWmhURTlMamRlWkJ0bXJuRjRtX3B4cE1PYk9UQTRNMnQ0c2NJeEFfOVRuWXVvdkNxSUxneVF6OXRXbF9yWklwaDY5VTFWSFloR240bG5ia2djMzBwY2xzOEM1WllVZV9FTmVWaW5Xbzdv0gGoAUFVX3lxTE91ZTE1RXpDQ3g2Sm5wNnZUN2NnT3NISjl0QTFSbTlHajRHN205YlFNOTYtUHBVTVlISldWMDFtUlRzT1g3TU5hYWJsc2ExSjVyRTVFUUQ4NjZwZ3lSTlBfamlNcnhBazVFbDZOQ3JCd1ZVdmlySDlhZFp5WjNmZGl3dGNVblF5VVJsX1FUeV90cERGLVFUa3JtWWxsT2lfbjRmOHBCbkJDMA?oc=5) (NBC Bay Area)
+6. [U.S. Judge rules FCC violated ABC's free speech rights to please Trump](https://news.google.com/rss/articles/CBMimgFBVV95cUxNby01YzRXd0RPNUZZMkpzX3NHelptVmw5ZjZuWFFBTlZ5S1VqeXlYWFhqX2VBaU5hRzB0TWttUlJJNzByWmNtUlFCVXVqSGUwdkpMZWFSWXU2OEczc3FPT3ZWc2hnZjliMlctQ2FoNG1qYzdvbUNudVBGb3YyZWljZ2Y3Wmtha1A0ZHMtMDYteXdzeWNES0JDUHR3?oc=5) (NPR)
+7. [Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakxqNjZmNDBjeERPdVRXTUY5MU8wVmJ3LWt6MWNMNXVvTE1WcEU0U19qdlo1Wm12dFAwTVF4MmptYlpvc1hFZHpRYVY0N2hUclJwYVQ1VFNoaGUzdVNQeVQ4RUJoYU8ydTc5VE1zZG96cWVMVjM4WDJfY2RNYWN2MUd4eW13ZXdBdnZyR1FTNTMxdFlBYjlLSlNZQUt0QWFPb2J3WEIwSWZvUQ?oc=5) (USA Today)
+8. [Judge sides against Democrats on taxpayer-funded pro-Trump ads](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQi1QN19xVHQycndYS2NZUkdTb3FYekF1Q256dE14dEZCQ2VBZ05RVFhKNGdrSXFIRW9qSUFEUkZFU0xkTjhGVF8xLVZCRXFoNnE2T05wQS1SX0lJYXg0bTZubm5qUmZ2VFpEQ3U4YmNlWGJGM3FpOG1hb3E4cE9naTlTcklGZHg2SzJn0gGQAUFVX3lxTE91eGxfTHZYWERfelladnJnZmV3ei03a0M2NW9FVlM3LWpzZF9qcF9EZFA4ZkhtNnQ0SEhRb0JwcXNHNGk5ZFgwaXFmSTFFZE5vNWVLb1lZX0puU3I0aXJHczJjRHpuRTRQckVzVm1KbDkwRDNISjBRWnhTc3ltRWRUTkk3WWhuS01ZOW12Qnc2eA?oc=5) (The Hill)
+9. [Six killed, including children, in plane crash off Mississippi coast](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmJfY2ZnQ1ZvV0t5WkZhU21Sb0Z5Z0d6MHJrRUt5RE9Vc1paMWxXVEZzbng3RWVnazZMaS1lOG4tbjFEZzhaZ3NiUEVrVXlGQXNHUkZpM19JMHJ4LVdyNGxMYjdGMmNjVFVDNWE0X2ZWVUVFYmxGLXJnb1dXcV85SV90eUc2aS1rb1VwNzY5WS01Si02ekFqcDNldjJXU2RxRnBOMnlXSEFqVDVy0gGyAUFVX3lxTE14MnM5eUZ6LU1OVnBOZ0pkX29Sd2RtX2dTX1NZRVVYcENOZ1hPbUdFMWNraF9mMVNFQVBScHhUZDIzaWE5R1FtYy1XMUdqcXlRaC1iaHltb04zLVRFU3JlZm9aN09FLW5IZlBhU09lTlJ2YW03UGw2ZDBoZzM0Zm42S0xwMm1kWl93NXVfQ2Z2aFFIWlFycDR6bFJ5d3FQdnAxNUxoMVlhc0xyXzdsb294U0E?oc=5) (Al Jazeera)
+10. [Mamdani Wins Against Landlords in Rent Freeze Lawsuit](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVlDLUxtZVFiLTZ4bUduV3JkMDBvQmIyMUV1MnlvMlhoRjh4N0JJMHlwT2lWVWdKVVhBZmdHNndjRzNJRnkxZzNmWEg3VmxNaUdCVWo2Sk9zc3FJYXR5d1AzS21YNGw1RkNDNFdzXzh0aGNob0dxRW4wUGVzdl8takpnN29PeFNqZC10MFJTdGs4TmNlSDY1RmJIdw?oc=5) (The New York Times)
 
 ### What the world was reading on Wikipedia yesterday
-1. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (305,811 views)
-2. [Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) (254,240 views)
-3. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (198,339 views)
-4. [The Hunger Games: Sunrise on the Reaping](https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping) (129,863 views)
-5. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (129,741 views)
-6. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (128,464 views)
-7. [Avengers: Doomsday](https://en.wikipedia.org/wiki/Avengers:_Doomsday) (120,242 views)
-8. [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) (102,084 views)
-9. [XXX: Return of Xander Cage](https://en.wikipedia.org/wiki/XXX:_Return_of_Xander_Cage) (101,704 views)
-10. [Nvidia](https://en.wikipedia.org/wiki/Nvidia) (89,488 views)
+1. [Miss Universe 2026](https://en.wikipedia.org/wiki/Miss_Universe_2026) (394,056 views)
+2. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (268,083 views)
+3. [Ezra Frech](https://en.wikipedia.org/wiki/Ezra_Frech) (260,732 views)
+4. [Dancing with the Stars (American TV series) season 35](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35) (205,438 views)
+5. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (151,092 views)
+6. [Jennifer Barreto](https://en.wikipedia.org/wiki/Jennifer_Barreto) (149,785 views)
+7. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (136,608 views)
+8. [Andy Taylor (guitarist)](https://en.wikipedia.org/wiki/Andy_Taylor_(guitarist)) (135,665 views)
+9. [Mike McCarthy](https://en.wikipedia.org/wiki/Mike_McCarthy) (128,019 views)
+10. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (127,151 views)
 
 <!-- NEWS:END -->
 
