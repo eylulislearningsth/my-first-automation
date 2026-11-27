@@ -8,31 +8,31 @@ Every morning a GitHub Action collects the stories that are blowing up worldwide
 Each day gets its own file in the [`news/`](news) folder, and the latest list is shown below.
 
 <!-- NEWS:START -->
-## Viral news for 2026-11-26
+## Viral news for 2026-11-27
 
 ### Top headlines worldwide
-1. [Macy's postpones Thanksgiving parade due to severe weather](https://news.google.com/rss/articles/CBMiW0FVX3lxTE50QUNpS0xGNXpWaUlldGtRQzl6cHdwZFFtSlRKTFR0XzUtU1JEd2c1REhZa1U5YW9ZeVFYSk9EQXFaWHZ6NUJIVmtlRmVGUGNoWUlwZVpKMW9jcTg?oc=5) (BBC)
-2. [Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTl6NlBKb3JYSFJlRnNLeFEyX3ZqNnNERWJrUGpNaWhyLUZ5cTBfU182VFBLM3d5R0g1dDMyVkR2UUtOOTlmdEhJUkRaU0ZFY1dQRU1MTUVVaFFCeml0c244bEFNY0ZDdXlVQy1FUXVMWW5TS1RycEcxMjgxcjhEMl9uTE4xSGdlbENvWVRtN0MxVkFUX0RLTDFnRG4wcW9lQzVCeFpFSGdRX3RmaDM4?oc=5) (FOX Weather)
-3. [Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTVg5UHpONGNFdFNFMDVfQlFwT1p3dDItcHg2TWRmdDFkT1hCMTlXSGoxM2JLTXViNG1pbUwtZXY2WnB2U050QkViTVJQQkJsSnozaE1ISDMyRGJtSUJuTGNtdjhNWVNoVHVsV1ExYUhyWVM4QVdzNXlmbUg2LWE4b1hraGFCYXdkNEEzYW9LTExIZExfalhEOUtfTUh4MFFlU2dvT0hWUDRXLW1aUDZzNDJlWTNELVRSc09TVFA3SGpRR2FwcF82bXVHUnk0dHQ2TkhIbFJuUFNtNTJjelpfWURfMEFPakhHX2c?oc=5) (Yahoo Finance)
-4. [Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVFQ3dllVOHBrWnZnenhkWWQ1M3QySmUwRDVCOXBwZjQzQ2dKTGdYQXlLYXBLUFF0MmtndFl4QmxvdzlQZ2Z5cWtDZEFZUjhYRW1McjZmOEh6cWNGdmdDb2tHOGdsN01OM3hBTXdBVjQwajRYRklDQmNhRUZNbTZ0V3E0bE9HTmxoMUVyMTdlS1dSUQ?oc=5) (CBS News)
-5. [Bay Area weather recap: Flood cleanup underway after waves slam Pacifica](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVA4MkUxTmlMa3ZhR19JWkVoTWNyVGg1dFItbEpxUjczN09BZXN1ZlhZaVRvY0dMWmhURTlMamRlWkJ0bXJuRjRtX3B4cE1PYk9UQTRNMnQ0c2NJeEFfOVRuWXVvdkNxSUxneVF6OXRXbF9yWklwaDY5VTFWSFloR240bG5ia2djMzBwY2xzOEM1WllVZV9FTmVWaW5Xbzdv0gGoAUFVX3lxTE91ZTE1RXpDQ3g2Sm5wNnZUN2NnT3NISjl0QTFSbTlHajRHN205YlFNOTYtUHBVTVlISldWMDFtUlRzT1g3TU5hYWJsc2ExSjVyRTVFUUQ4NjZwZ3lSTlBfamlNcnhBazVFbDZOQ3JCd1ZVdmlySDlhZFp5WjNmZGl3dGNVblF5VVJsX1FUeV90cERGLVFUa3JtWWxsT2lfbjRmOHBCbkJDMA?oc=5) (NBC Bay Area)
-6. [U.S. Judge rules FCC violated ABC's free speech rights to please Trump](https://news.google.com/rss/articles/CBMimgFBVV95cUxNby01YzRXd0RPNUZZMkpzX3NHelptVmw5ZjZuWFFBTlZ5S1VqeXlYWFhqX2VBaU5hRzB0TWttUlJJNzByWmNtUlFCVXVqSGUwdkpMZWFSWXU2OEczc3FPT3ZWc2hnZjliMlctQ2FoNG1qYzdvbUNudVBGb3YyZWljZ2Y3Wmtha1A0ZHMtMDYteXdzeWNES0JDUHR3?oc=5) (NPR)
-7. [Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakxqNjZmNDBjeERPdVRXTUY5MU8wVmJ3LWt6MWNMNXVvTE1WcEU0U19qdlo1Wm12dFAwTVF4MmptYlpvc1hFZHpRYVY0N2hUclJwYVQ1VFNoaGUzdVNQeVQ4RUJoYU8ydTc5VE1zZG96cWVMVjM4WDJfY2RNYWN2MUd4eW13ZXdBdnZyR1FTNTMxdFlBYjlLSlNZQUt0QWFPb2J3WEIwSWZvUQ?oc=5) (USA Today)
-8. [Judge sides against Democrats on taxpayer-funded pro-Trump ads](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQi1QN19xVHQycndYS2NZUkdTb3FYekF1Q256dE14dEZCQ2VBZ05RVFhKNGdrSXFIRW9qSUFEUkZFU0xkTjhGVF8xLVZCRXFoNnE2T05wQS1SX0lJYXg0bTZubm5qUmZ2VFpEQ3U4YmNlWGJGM3FpOG1hb3E4cE9naTlTcklGZHg2SzJn0gGQAUFVX3lxTE91eGxfTHZYWERfelladnJnZmV3ei03a0M2NW9FVlM3LWpzZF9qcF9EZFA4ZkhtNnQ0SEhRb0JwcXNHNGk5ZFgwaXFmSTFFZE5vNWVLb1lZX0puU3I0aXJHczJjRHpuRTRQckVzVm1KbDkwRDNISjBRWnhTc3ltRWRUTkk3WWhuS01ZOW12Qnc2eA?oc=5) (The Hill)
-9. [Six killed, including children, in plane crash off Mississippi coast](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmJfY2ZnQ1ZvV0t5WkZhU21Sb0Z5Z0d6MHJrRUt5RE9Vc1paMWxXVEZzbng3RWVnazZMaS1lOG4tbjFEZzhaZ3NiUEVrVXlGQXNHUkZpM19JMHJ4LVdyNGxMYjdGMmNjVFVDNWE0X2ZWVUVFYmxGLXJnb1dXcV85SV90eUc2aS1rb1VwNzY5WS01Si02ekFqcDNldjJXU2RxRnBOMnlXSEFqVDVy0gGyAUFVX3lxTE14MnM5eUZ6LU1OVnBOZ0pkX29Sd2RtX2dTX1NZRVVYcENOZ1hPbUdFMWNraF9mMVNFQVBScHhUZDIzaWE5R1FtYy1XMUdqcXlRaC1iaHltb04zLVRFU3JlZm9aN09FLW5IZlBhU09lTlJ2YW03UGw2ZDBoZzM0Zm42S0xwMm1kWl93NXVfQ2Z2aFFIWlFycDR6bFJ5d3FQdnAxNUxoMVlhc0xyXzdsb294U0E?oc=5) (Al Jazeera)
-10. [Mamdani Wins Against Landlords in Rent Freeze Lawsuit](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVlDLUxtZVFiLTZ4bUduV3JkMDBvQmIyMUV1MnlvMlhoRjh4N0JJMHlwT2lWVWdKVVhBZmdHNndjRzNJRnkxZzNmWEg3VmxNaUdCVWo2Sk9zc3FJYXR5d1AzS21YNGw1RkNDNFdzXzh0aGNob0dxRW4wUGVzdl8takpnN29PeFNqZC10MFJTdGs4TmNlSDY1RmJIdw?oc=5) (The New York Times)
+1. [Major Thanksgiving storm brings flooding, flight delays across US](https://news.google.com/rss/articles/CBMiW0FVX3lxTE45bUpwdlMwTTBqVE5uMnQ0TXQyQ0hnLUVlU1B2akk2bmxaMTQyUG9BOG1xaFE4RUpERmlMS3NQVGJ6ek84Um1UX25PTWJ5Z0Jzd1FaamtsWlZjcjg?oc=5) (BBC)
+2. [The Macy's Thanksgiving parade is postponed. What happens to its expansive roster of performers?](https://news.google.com/rss/articles/CBMioAFBVV95cUxQemZKUW1ScjhtaU1uYmdNXzZ1eXJXN1VSTlN5MXRnTk5BZ2MxdWJsVmVSZ2VWRFNCbHVzcDhiTFlNOTE4REJ1V1VKNzl5aHJjS19kZE11dGVvTlZCdDc0REJZaFlxQXR2LVpRTlhDeUd2WVZTdHZOZWdjMk9oQ0NCSEM1NWp6TGw5MGVXWEtKekNBS0tpVGxjUmJRdmdaQU9a?oc=5) (AP News)
+3. [Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5) (Reuters)
+4. [Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say](https://news.google.com/rss/articles/CBMingFBVV95cUxQQzFiWi01aU5HaTlZaHd0THlxMFB6RTdtR1hpUGh1RHVuclpWOGxwNVJEdXFDXzN1LWpBOUpuWmEzR3c5VGp0SGYwajFLYm90eU9OM29VVkFWWlUtQWh4eUZiUHJQN2s4STBELUZfNVhOZHVfRVltRjZsVDloTFdwVUlTU0QyVmFBTHVfQzBBYV80aXhxREh0MzVydXcydw?oc=5) (The New York Times)
+5. [Maryland residents urged to conserve water after storm disrupts power](https://news.google.com/rss/articles/CBMitwFBVV95cUxPczRpMlJyTzlLajRPVXBKRHQ2OEwySjN1bVdvaXFQNHdXNWJ3N2VOOUY0NFU0OGhCSTZfYXh0aGJtTlVlYUFOZ0VFUndlYW1ESE1rLVNEejdFZm9KT1htUk9nM3FmTTJuNFQ3QXZOOWlMUUxZd24xTEpRYjJtdGJXdU5pU0RlcXp6U0FyY1NHUzM4ekdsMkdqOEZVTG5rV1prNEZLczlUMFBiY3ZLUzFuR2FmcUp4VU0?oc=5) (The Washington Post)
+6. ['Unacceptable': China, EU among major economies against new US tariffs](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSzlzNkVzNEdFVU9tanZOU0tVbWJxVW9oV2VueklTWlU5bDNSbFFLNkRzbEZlRGVJVnkzWjk5cGdLZzdmXy1PNmtHTHROU0VPY1ZSdk1QUmVZWVYzQ0xSWXhHUWxtVXd4M0xvSHRpNFNiNkdWMm9sRW16ZjktcEg5dnl6bWx1a0pKRlo2bXl4VE1yNTlqTVpnTFF6WVJhd2dWSlhXQVhMek55Nkk?oc=5) (France 24)
+7. [Zeldin: No airborne lead detected in Iowa a day after Army blast](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnF0NWN2RkN3SERuUFVVdXlPQnZXc0JHcmtPZGZ4TGlIZHY2RkM4eFc0T3ZXcnBlZXpyX01ZT3U4T1VCMjBITDFzRWhJbDBIc2ZSRXMwcjhBR3U5NV9TRWxfVDNfQXBYV2pCdVJmYzljRHlCdE02T1A0SHhqV0szeVRZRGthZ2FNNDA0WHpqRkl5SknSAZgBQVVfeXFMT3JlVnQyZHI2M3g2YXUzRU9iMVNIN2FRdE9tQWNDMlNBOFVXRnExOHNuWjNiQ2VZekc2NkpoeGxxYUhWSXlyeTlkZkhITjdINHF2U2Y5TllSLVN5S3FPM3pRanM5X3k5dzR6anRoZGI5dFd1OUtxdjVlbzYzMmZRdVdzQm9hN1JiTGZESk51LTdVRDFUYU1NZlI?oc=5) (The Hill)
+8. [King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2YwS2FSRTBCcnNTUU1JbWFhWXF2bVhJdC1vZzJ5T1djZEJuOU92cG96ZDdfWlhHMFN1MEpBRzItbUdFc3JoelpfTGstd1BPeDZyaGpRR2QtOEFhNXRtLUh5bWtPRDhoMGpCcHRDczM1NTlfVGI4VUYtS2IxdUN3OHcxcVQyMXdYNHhXdFdiMWdaSTBHMnowbU9aMFZGU1U0Q3EwYmxoS1I0c3RVZk80S0xlQ2pnV25yN09PY2xGZ2hSNGFld1FMalJLOA?oc=5) (PBS)
+9. [After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving](https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVJlTEtmOXZPQ3AtRlRpRFd2OXhvRDVTMUdvQVE0WHowNnF0ME1XSHZwNngxT3ZMOVpOUF9nSUxlMldFblZnZGpudTBDRXkzUjVGOFAycndRWXZvWEplRDdXZzYwZV9sYlVOUVNOSzVmakhzV0RVM2d6d25xVjRzVl9Xd2M?oc=5) (The New York Times)
+10. [Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5) (The Washington Post)
 
 ### What the world was reading on Wikipedia yesterday
-1. [Miss Universe 2026](https://en.wikipedia.org/wiki/Miss_Universe_2026) (394,056 views)
-2. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (268,083 views)
-3. [Ezra Frech](https://en.wikipedia.org/wiki/Ezra_Frech) (260,732 views)
-4. [Dancing with the Stars (American TV series) season 35](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35) (205,438 views)
-5. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (151,092 views)
-6. [Jennifer Barreto](https://en.wikipedia.org/wiki/Jennifer_Barreto) (149,785 views)
-7. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (136,608 views)
-8. [Andy Taylor (guitarist)](https://en.wikipedia.org/wiki/Andy_Taylor_(guitarist)) (135,665 views)
-9. [Mike McCarthy](https://en.wikipedia.org/wiki/Mike_McCarthy) (128,019 views)
-10. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (127,151 views)
+1. [Andy Taylor (guitarist)](https://en.wikipedia.org/wiki/Andy_Taylor_(guitarist)) (318,400 views)
+2. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (256,714 views)
+3. [Aaron Rodgers](https://en.wikipedia.org/wiki/Aaron_Rodgers) (183,037 views)
+4. [Mike McCarthy](https://en.wikipedia.org/wiki/Mike_McCarthy) (178,864 views)
+5. [Duran Duran](https://en.wikipedia.org/wiki/Duran_Duran) (164,045 views)
+6. [Wu-Tang Clan](https://en.wikipedia.org/wiki/Wu-Tang_Clan) (147,607 views)
+7. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (134,094 views)
+8. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (125,901 views)
+9. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (123,574 views)
+10. [Ezra Frech](https://en.wikipedia.org/wiki/Ezra_Frech) (119,420 views)
 
 <!-- NEWS:END -->
 
