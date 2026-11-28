@@ -8,31 +8,31 @@ Every morning a GitHub Action collects the stories that are blowing up worldwide
 Each day gets its own file in the [`news/`](news) folder, and the latest list is shown below.
 
 <!-- NEWS:START -->
-## Viral news for 2026-11-27
+## Viral news for 2026-11-28
 
 ### Top headlines worldwide
-1. [Major Thanksgiving storm brings flooding, flight delays across US](https://news.google.com/rss/articles/CBMiW0FVX3lxTE45bUpwdlMwTTBqVE5uMnQ0TXQyQ0hnLUVlU1B2akk2bmxaMTQyUG9BOG1xaFE4RUpERmlMS3NQVGJ6ek84Um1UX25PTWJ5Z0Jzd1FaamtsWlZjcjg?oc=5) (BBC)
-2. [The Macy's Thanksgiving parade is postponed. What happens to its expansive roster of performers?](https://news.google.com/rss/articles/CBMioAFBVV95cUxQemZKUW1ScjhtaU1uYmdNXzZ1eXJXN1VSTlN5MXRnTk5BZ2MxdWJsVmVSZ2VWRFNCbHVzcDhiTFlNOTE4REJ1V1VKNzl5aHJjS19kZE11dGVvTlZCdDc0REJZaFlxQXR2LVpRTlhDeUd2WVZTdHZOZWdjMk9oQ0NCSEM1NWp6TGw5MGVXWEtKekNBS0tpVGxjUmJRdmdaQU9a?oc=5) (AP News)
-3. [Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5) (Reuters)
-4. [Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say](https://news.google.com/rss/articles/CBMingFBVV95cUxQQzFiWi01aU5HaTlZaHd0THlxMFB6RTdtR1hpUGh1RHVuclpWOGxwNVJEdXFDXzN1LWpBOUpuWmEzR3c5VGp0SGYwajFLYm90eU9OM29VVkFWWlUtQWh4eUZiUHJQN2s4STBELUZfNVhOZHVfRVltRjZsVDloTFdwVUlTU0QyVmFBTHVfQzBBYV80aXhxREh0MzVydXcydw?oc=5) (The New York Times)
-5. [Maryland residents urged to conserve water after storm disrupts power](https://news.google.com/rss/articles/CBMitwFBVV95cUxPczRpMlJyTzlLajRPVXBKRHQ2OEwySjN1bVdvaXFQNHdXNWJ3N2VOOUY0NFU0OGhCSTZfYXh0aGJtTlVlYUFOZ0VFUndlYW1ESE1rLVNEejdFZm9KT1htUk9nM3FmTTJuNFQ3QXZOOWlMUUxZd24xTEpRYjJtdGJXdU5pU0RlcXp6U0FyY1NHUzM4ekdsMkdqOEZVTG5rV1prNEZLczlUMFBiY3ZLUzFuR2FmcUp4VU0?oc=5) (The Washington Post)
-6. ['Unacceptable': China, EU among major economies against new US tariffs](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSzlzNkVzNEdFVU9tanZOU0tVbWJxVW9oV2VueklTWlU5bDNSbFFLNkRzbEZlRGVJVnkzWjk5cGdLZzdmXy1PNmtHTHROU0VPY1ZSdk1QUmVZWVYzQ0xSWXhHUWxtVXd4M0xvSHRpNFNiNkdWMm9sRW16ZjktcEg5dnl6bWx1a0pKRlo2bXl4VE1yNTlqTVpnTFF6WVJhd2dWSlhXQVhMek55Nkk?oc=5) (France 24)
-7. [Zeldin: No airborne lead detected in Iowa a day after Army blast](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnF0NWN2RkN3SERuUFVVdXlPQnZXc0JHcmtPZGZ4TGlIZHY2RkM4eFc0T3ZXcnBlZXpyX01ZT3U4T1VCMjBITDFzRWhJbDBIc2ZSRXMwcjhBR3U5NV9TRWxfVDNfQXBYV2pCdVJmYzljRHlCdE02T1A0SHhqV0szeVRZRGthZ2FNNDA0WHpqRkl5SknSAZgBQVVfeXFMT3JlVnQyZHI2M3g2YXUzRU9iMVNIN2FRdE9tQWNDMlNBOFVXRnExOHNuWjNiQ2VZekc2NkpoeGxxYUhWSXlyeTlkZkhITjdINHF2U2Y5TllSLVN5S3FPM3pRanM5X3k5dzR6anRoZGI5dFd1OUtxdjVlbzYzMmZRdVdzQm9hN1JiTGZESk51LTdVRDFUYU1NZlI?oc=5) (The Hill)
-8. [King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2YwS2FSRTBCcnNTUU1JbWFhWXF2bVhJdC1vZzJ5T1djZEJuOU92cG96ZDdfWlhHMFN1MEpBRzItbUdFc3JoelpfTGstd1BPeDZyaGpRR2QtOEFhNXRtLUh5bWtPRDhoMGpCcHRDczM1NTlfVGI4VUYtS2IxdUN3OHcxcVQyMXdYNHhXdFdiMWdaSTBHMnowbU9aMFZGU1U0Q3EwYmxoS1I0c3RVZk80S0xlQ2pnV25yN09PY2xGZ2hSNGFld1FMalJLOA?oc=5) (PBS)
-9. [After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving](https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVJlTEtmOXZPQ3AtRlRpRFd2OXhvRDVTMUdvQVE0WHowNnF0ME1XSHZwNngxT3ZMOVpOUF9nSUxlMldFblZnZGpudTBDRXkzUjVGOFAycndRWXZvWEplRDdXZzYwZV9sYlVOUVNOSzVmakhzV0RVM2d6d25xVjRzVl9Xd2M?oc=5) (The New York Times)
-10. [Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5) (The Washington Post)
+1. [Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeC1wZnNnelN2SjMyN0M3c1ByRU13Vmlsd2NlLWlxdzlDY04tRE5HRGZaNjhPNkFpSGNfa0VXdXp2em1maDdwb1huWjJrRlh5RGV5RG5JSy1icWUydXFlZ3V4U2hYM0JEeC1UVS04WEFmOEhROW8tRnkwTnE1cmpzYkMzTFhPVU10bktPZ05jS2luZ210SDVmRWNMSXJma2tMU2Z3?oc=5) (AP News)
+2. [Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports](https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5) (CBS News)
+3. [Trump officials to speed president’s projects with special meeting before new Congress](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHowUF95QnR0SlhpUlJPV2NWSHZHMGxrOUx4S2gwbTNXY2h6MWxvQ1lRYlhYcEs5c1JWdTVPVlMwOUs5UVRpOVlub3VibHprOWVHNndja0Y3YUdubmExbHV2T01UMVpobVhpYTl3X2xKX0FtTFBadk5xc3lzWF9fOVZFTk81Z3lTc24xbzR6OHI5alFSM3UwcE9IYThQRmZVR0l5aU9MZ2YzdG9mZFh0cERwakZrc0VtRGNKQko2TXVJZw?oc=5) (The Washington Post)
+4. [Thanksgiving storms leave nearly a million without power across the US](https://news.google.com/rss/articles/CBMisgFBVV95cUxOV05RRm9ueHQ3Qmdpb09FZUJxVWN4R3JUVGk5SWI5SGh3MlNJZGVxTXNrRURzTmN1OWgzejIxN0dxSzZfTjNaaV9paGZfN3I1cVZUOTJMYTlEdUFlUFZEN2ItM01pVVMtWEcwVVczQjBtMUVfeFc0Y2MzbDdRSlFzcXRPMnRMWUdkSFRjTHUwS281OVBMTnNQV2Q2Y21LM1pCZ3dXa19zVFFSQ0RsTndLMFVR0gG3AUFVX3lxTFBLT2JDS2VjblItcVVUbkdIUWZXc1IwcUJGSGNKZTZUUHhhYXlrazIyZGtXNDFvaGJSOGxmVEZYVDVzM1ZIdWU3cEJJbXNuSC1ybjNUQmcwa21vY3VPTWkwRTBMVHREWENlNTg3ajdFUTFRcU1McVJMWF9VSTB4UGxzTzVpWlZjSU5sQjZTNXJyYnJPTEc3NFIwM3Q3LVZIV1NyV0cyYktESTEzR1drcFdLaHQwclBnbw?oc=5) (Al Jazeera)
+5. [EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5) (Reuters)
+6. [Where high tides set records on both coasts this week](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMjM2T0xkSDhDenlaaTVRbG9IYVBXNFpCZ1NDUTUxVmREdF85MUJtbnVjZnpKOUt6djVsT0VhdEZ6eVpDY2lzSXRfTEt4TldqanVsYlR1b1EyaWIxZjJ4Z0tvMk9QSWdjZDVXTEQzbklXNFQ4S0lScnB5eUxEZ19PY3JJTUxrY0ZTQmpobnlHY3pwQ21jUGpEWUt6RW5XajRCRlFJ?oc=5) (The Washington Post)
+7. [Two planes clip wings at Reagan National Airport](https://news.google.com/rss/articles/CBMingFBVV95cUxNU1JBQ1NyNU5ldGtkRDVpMDY4QmQtU2s0T1Q4VnJMS01IQUtIa2Qtd01BMVNaVktUY3g2Qml2bnY4WmlXdVc4YUEyMkh5ekxyZWhsVjVPbU54X3B2OUwwOFRia3pwTmNDRGRyRFExdzc5Y0lQWXNWM3ZhTjJCY1FHdEVRSmhJSUVBZlpQSHBiT290akFrTjRXWElEeWVmQQ?oc=5) (The Washington Post)
+8. [Parts of the US clean up, power being restored after Thanksgiving storm soaks East Coast](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjRuNThwR0c4LU54RVBVM3kzcFFCOGFmR0szVnA2SUI1aW55bTMtWWlvZ1FYLUVLZmNEYk1HM2ZGZmotc09Wck9ySldYcW9zTWZaeUw5eFVoNUxrcFo0aDNmejFnbzkwTmNhRDUyamhlWHpWNTFwb1BiRUlqV0ZMUllxV3lnU2NzYnlfSUhNWUVyV09WcE9wN0pmeGp5d011djRj?oc=5) (AP News)
+9. [Andrea Stewart-Cousins, NY Senate leader, dies at 76](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkNXTVl5TndwZFpYcVRUVV92eUJ6N19wV3Z4UjJFZE03cnhxR3F0ZXM4VGMyZWJHd1ZIb1k3WnVYNkpkVnpiejdBSnJMWTB2RUlrelJzYlNGb2lOYndia1A4OV9BZjJOeHNRWkxBaXFJRDlxeVB3eDhaLXB6RUpteEs1VHphRVp6aGNHOWVfMnc1QkozM1gxVHNB0gGfAUFVX3lxTE1icFF1Unc4aFN0Zk9aRW8wdFpsMkp1V3h3Ujh6SDJxaW5TWEVPamllNWFnYXRkZkRYRFM1YXRFY1MtNFJVNmhEdmxBTzhXWHNvYjktckhQOERJLWI1emNxTnA3dlNna3AxdnhKcV9Fd2RGU1EycXRfdjk3MjRhZHNLU01FUDdxNjhiNnFLVE9JMXgtN21pWG53LW43dmhjdw?oc=5) (ABC7 New York)
+10. [Scientists Question EPA 'Zero' Lead Readings After Iowa Army Chemical Blast](https://news.google.com/rss/articles/CBMidkFVX3lxTE51eDhiT0g5eV8xMkRERUJTS2ZEVEpPcV9aaFdueHF5ZmZCMkRzYk9IUnVsMzNxR3A0M1pnM25TMWZ1NWVTUXp1dU1Ccm9DTkFOeVY5czk4dDdVR0ZFdVZsWURqWTRkOTdkcG8tTng1TWZBWDkyQVE?oc=5) (CBS News)
 
 ### What the world was reading on Wikipedia yesterday
-1. [Andy Taylor (guitarist)](https://en.wikipedia.org/wiki/Andy_Taylor_(guitarist)) (318,400 views)
-2. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (256,714 views)
-3. [Aaron Rodgers](https://en.wikipedia.org/wiki/Aaron_Rodgers) (183,037 views)
-4. [Mike McCarthy](https://en.wikipedia.org/wiki/Mike_McCarthy) (178,864 views)
-5. [Duran Duran](https://en.wikipedia.org/wiki/Duran_Duran) (164,045 views)
-6. [Wu-Tang Clan](https://en.wikipedia.org/wiki/Wu-Tang_Clan) (147,607 views)
-7. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (134,094 views)
-8. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (125,901 views)
-9. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (123,574 views)
-10. [Ezra Frech](https://en.wikipedia.org/wiki/Ezra_Frech) (119,420 views)
+1. [Joe Milton](https://en.wikipedia.org/wiki/Joe_Milton) (385,182 views)
+2. [.xxx](https://en.wikipedia.org/wiki/.xxx) (249,819 views)
+3. [Ramayana: Part 1](https://en.wikipedia.org/wiki/Ramayana:_Part_1) (229,774 views)
+4. [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) (127,653 views)
+5. [Mason Rudolph (American football)](https://en.wikipedia.org/wiki/Mason_Rudolph_(American_football)) (117,924 views)
+6. [Elizabeth Holmes](https://en.wikipedia.org/wiki/Elizabeth_Holmes) (117,706 views)
+7. [List of highest-grossing Indian films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) (116,885 views)
+8. [Ansel Adams](https://en.wikipedia.org/wiki/Ansel_Adams) (111,201 views)
+9. [Aaron Rodgers](https://en.wikipedia.org/wiki/Aaron_Rodgers) (110,558 views)
+10. [Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) (109,088 views)
 
 <!-- NEWS:END -->
 
